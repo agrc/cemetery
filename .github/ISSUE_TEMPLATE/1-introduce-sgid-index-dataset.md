@@ -1,5 +1,5 @@
 ---
-name: Introducing data to the SGID Index
+name: Add external data links to the SGID Index
 about: Externally-hosted data
 title: Add <dataset name> from <source> to SGID Index
 labels: "introduction, porter"

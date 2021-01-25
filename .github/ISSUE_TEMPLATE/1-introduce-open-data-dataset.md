@@ -22,7 +22,7 @@ _Please introduce your data, where it comes from, why it is being added etc._
 
 ## Submitter's Process
 
-1. _Please review our [Open Data sharing process](https://gis.utah.gov/sharing/process#open-data) and [qualifications](https://gis.utah.gov/about/policy/sgid#sgid-index-qualifications)._
+1. _Please review our [Open Data sharing process](https://gis.utah.gov/sharing/process#open-data) and [qualifications](https://gis.utah.gov/about/policy/sgid#open-data-qualifications)._
 1. _Request access to the [Open Data Staging Group](https://utah.maps.arcgis.com/home/group.html?id=3d3bd0d238f24f45b2c4b84f1015a317) if you don't have access already._
 1. _Check [x] the box in the items below when you have completed the task and add the date of completion._
 
@@ -48,7 +48,7 @@ _Please introduce your data, where it comes from, why it is being added etc._
 ### The data is high quality
 
 - [ ] The dataset meets our [general qualifications](https://gis.utah.gov/about/policy/sgid#general-qualifications) (name on `2021/00/00`)
-- [ ] The dataset meets our [Open Data qualifications](https://gis.utah.gov/about/policy/sgid#sgid-index-qualifications)(name on `2021/00/00`)
+- [ ] The dataset meets our [Open Data qualifications](https://gis.utah.gov/about/policy/sgid#open-data-qualifications)(name on `2021/00/00`)
 - Specifically, the following ArcGIS Online item metadata items meet the qualifications: (name on `2021/00/00`)
   - [ ] Title
   - [ ] Description
