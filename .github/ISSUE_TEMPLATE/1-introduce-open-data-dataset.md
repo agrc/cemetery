@@ -48,7 +48,7 @@ _Please introduce your data, where it comes from, why it is being added etc._
 ### The data is high quality
 
 - [ ] The dataset meets our [general qualifications](https://gis.utah.gov/about/policy/sgid#general-qualifications) (name on `2021/00/00`)
-- [ ] The dataset meets our [Open Data qualifications](https://gis.utah.gov/about/policy/sgid#open-data-qualifications)(name on `2021/00/00`)
+- [ ] The dataset meets our [Open Data qualifications](https://gis.utah.gov/about/policy/sgid#open-data-qualifications) (name on `2021/00/00`)
 - Specifically, the following ArcGIS Online item metadata items meet the qualifications: (name on `2021/00/00`)
   - [ ] Title
   - [ ] Description

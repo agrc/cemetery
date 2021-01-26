@@ -34,7 +34,7 @@ _Please introduce your data, where it comes from, why it is being added etc._
 
 1. _Complete these only if your data is already hosted in ArcGIS Online and needs to be added to Open Data_
 
-- [ ] Share the ArcGIS Online item with the appropriate Open Data Group (name, completed: `2021/00/00`)
+- [ ] Share the ArcGIS Online item with the appropriate Open Data Group (`2021/00/00`)
 
 ---
 
