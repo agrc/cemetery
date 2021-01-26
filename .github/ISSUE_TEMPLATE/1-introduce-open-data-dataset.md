@@ -35,8 +35,8 @@ _Please introduce your data, where it comes from, why it is being added etc._
 
 1. _Complete these after you've been notified that the dataset is ready to be added to Open Data_
 
-- [ ] Remove the item from the staging group (name, completed: `2021/00/00`)
-- [ ] Share the item with the appropriate Open Data Group (name, completed: `2021/00/00`)
+- [ ] Remove the item from the staging group (completed: `2021/00/00`)
+- [ ] Share the item with the appropriate Open Data Group (completed: `2021/00/00`)
 
 ---
 
